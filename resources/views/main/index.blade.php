@@ -181,7 +181,7 @@ function myFunction2() {
 
 
 
-<h1 class="centrado" >Bienvenido, disfrute de nuestros mejores hoteles</h1>
+<h1 class="centrado" >Bienvenido, disfrute de nuestros mejores hoteles.</h1>
 
 <div class="padre">
     
