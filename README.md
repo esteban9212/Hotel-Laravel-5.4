@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## Acerca de la aplicación  
+Aplicación util para gestionar las opiniones de usuarios de una cadena de hoteles, se pueden crear hoteles, y las personas pueden dejar su opinion acerca del servicio y calificar los hoteles de 1-15 estrellas.  
+
+Un demo de la aplicacion puede ser encontrada en el siguiente enlace.  
+http://thawing-lake-23490.herokuapp.com/login
+
+## Configuración  
+
+Clonar este repositorio y actualziar las depencias con el comando composer install
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
